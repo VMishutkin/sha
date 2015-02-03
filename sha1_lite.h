@@ -9,7 +9,7 @@
 #include <sstream>   
 using namespace std;
 typedef unsigned char byte;
-typedef unsigned long dword;
+typedef unsigned int dword;
 typedef uint64_t dword64;
 typedef unsigned int uint;
 
