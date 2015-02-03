@@ -4,6 +4,7 @@
 
 int main(int argc, char **argv)
 {
+	
     if (argc != 2)
     {
         cout << endl << "Использование: ./sha1 file_in" << endl << endl;
