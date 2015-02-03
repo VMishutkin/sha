@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 SHA1 sha1;
 if(sha1.ifopen(argv[1]))
 {
-printf("Hash for %s\n",sha1.mes);
+//printf("Hash for %s\n",sha1.mes);
     SHA1().hash(sha1.mes);
 }
 else
